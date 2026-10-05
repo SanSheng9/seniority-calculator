@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Seniority calculator (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Seniority calculator (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
